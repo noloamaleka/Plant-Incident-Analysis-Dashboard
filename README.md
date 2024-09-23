@@ -8,3 +8,20 @@ This is a plant incident dashboard that uses KPI metrics to highlight and provid
 
 ## **Technologies Used**
 Microsoft Excel
+## **Functions and Features Used**:
+
+- XLOOKUP
+
+- Pivot Tables
+
+- Conditional Formatting
+
+- IF Statements
+
+- Text to Columns
+
+- Data Validation
+
+- Filtering
+
+- Sort
